@@ -1,0 +1,7 @@
+调参宝 TiaoCanBao bundles the following third-party software in index.html
+(sources in vendor/):
+
+- KaTeX 0.16.9 — MIT License, Copyright (c) 2013-2020 Khan Academy and other contributors.
+  See vendor/LICENSE-katex.txt
+- PDF.js 3.11.174 (pdfjs-dist) — Apache License 2.0, Copyright Mozilla Foundation.
+  See vendor/LICENSE-pdfjs.txt
